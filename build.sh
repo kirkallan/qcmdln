@@ -6,4 +6,4 @@ echo "mv a.out qcmdln"
 mv a.out qcmdln
 echo "cp -p qcmdln $HOME/bin"
 cp -p qcmdln $HOME/bin
-echo "done"
+echo "build.sh done"
