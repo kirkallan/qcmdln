@@ -1,0 +1,10 @@
+TARGETNAME=qcmdln
+TARGETTYPE=PROGRAM
+
+SOURCES= \
+    qcmdln.c
+
+UMTYPE=console
+UMENTRY=main
+
+USE_MSVCRT=1
