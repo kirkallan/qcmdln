@@ -30,7 +30,6 @@
 #define __CDECL
 #endif
 
-intentional error
 int eat_white_space(FILE *fp)
 {
     int c;
