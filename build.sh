@@ -8,3 +8,4 @@ echo "cp -p qcmdln $HOME/bin"
 cp -p qcmdln $HOME/bin
 echo "build.sh is done"
 echo "what happens next?"
+echo "checking the workflow?"
