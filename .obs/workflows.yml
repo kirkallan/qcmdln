@@ -1,5 +1,5 @@
 workflow:
   steps:
-    - branch_package:
-        source_project: home:kallan
-        source_package: qcmdl
+    - rebuild_package:
+        project: home:kallan
+        package: qcmdl
