@@ -1,5 +1,8 @@
 workflow:
   steps:
+    - trigger_services:
+        project: home:kallan
+        package: qcmdln
     - rebuild_package:
         project: home:kallan
         package: qcmdln
