@@ -5,7 +5,7 @@
  *****************************************************************************/
 /*****************************************************************************
  *                                                                           *
- * Copyright (C) 2017-2021 Unpublished Work of SUSE. All Rights Reserved.
+ * Copyright (C) 2017-2022 Unpublished Work of SUSE. All Rights Reserved.
  *
  * THIS WORK IS AN UNPUBLISHED WORK AND CONTAINS CONFIDENTIAL, PROPRIETARY
  * AND TRADE SECRET INFORMATION OF SUSE, INC. ACCESS TO THIS WORK IS
