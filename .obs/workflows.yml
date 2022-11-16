@@ -2,4 +2,4 @@ workflow:
   steps:
     - rebuild_package:
         project: home:kallan
-        package: qcmdl
+        package: qcmdln
